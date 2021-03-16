@@ -13,7 +13,6 @@ const App = () => {
                                avatar={faker.image.animals()}/>
             </ApprovalCard>
             <ApprovalCard>
-
                 <CommentDetail author={"Alex"} timeAgo={"Today at 6:00PM"}
                                avatar={faker.image.abstract()}
                                content={"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "}/>
